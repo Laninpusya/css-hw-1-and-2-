@@ -1,0 +1,50 @@
+ /* .hw{
+    
+    height: 220px;
+                 
+    margin-bottom: 30px;
+    background-color: green;
+    box-sizing: border-box;                                     вторая часть дз (частично и первая (border box))
+    width: 350px;
+    border: 2px red dashed;
+    padding: 15px 10px 20px 10px; 
+}  */
+
+
+
+
+.homework{
+    max-width: 10000px;
+    padding-top: 10px;
+
+}
+
+.png1{
+    display: block;
+    margin-right: 15px;
+    margin-bottom: 10px;
+    padding-left: 10px;
+   
+   
+
+    float: left;
+    width: 250px;
+    
+    
+}
+                                                        /* а это третья часть дз */
+
+.png2{
+    width: 11%;
+    height: 10%;
+    float: right;
+    margin-bottom: 10px;
+    padding-left: 15px;
+    padding-top: 10px;
+
+
+    
+}
+
+
+
